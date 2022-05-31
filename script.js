@@ -1,5 +1,5 @@
 // end date which is 31 of dec, and the current one which is the 31 one of may and then we subtract
-
+// copyright
 const newYear = '1 Jan 2023';
 
 function countDown() {
